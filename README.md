@@ -5,9 +5,6 @@ To run this application, you will need Python 3.9 and Flask installed on your ma
 ```bash
 python3 main.py
 
-
-
-
 To run this application in Docker
 
 ```bash
@@ -15,4 +12,3 @@ docker build -t my-app .
 
 ```bash
 docker run -p 80:80 my-flask-app
-
